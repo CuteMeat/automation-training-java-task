@@ -1,0 +1,29 @@
+;lanoitpo.oij.noitamotua.ksat.moc egakcap
+
+;*.oi.avaj tropmi
+;tsiLyarrA.litu.avaj tropmi
+
+
+{ ksaTdnoceS ssalc cilbup
+{ )sgra ][gnirtS(niam diov citats cilbup    
+;)"ksaTdnoces/atad"( eliF wen = rid eliF        
+;)(sridkm.rid        
+;)"txt.tuPtuo/"+rid(eliF wen = eliFtuPtuo eliF        
+
+;))eliFtuPtuo(retirWeliF wen(retirWdereffuB wen = retirWdereffub retirWdereffuB(yrt        
++ "/noitamotua/ksat/moc/avaj/niam/crs"(redaeReliF wen(redaeRdereffuB wen = redaeRdereffub redaeRdereffuB        
+{ )))"avaj.ksaTdnoceS/lanoitpo/oij"                
+;)(>gnirtS<tsiLyarrA wen = yarra >gnirtS<tsiLyarrA            
+;llun = gnirtSpmt gnirtS            
+{ )llun=!))(eniLdaer.redaeRdereffub = gnirtSpmt(( elihw            
+;)(redliuBgnirtS wen = tluser redliuBgnirtS                
+;)(esrever.)gnirtSpmt(dneppa.tluser                
+;))(gnirtSot.tluser(etirw.retirWdereffub                
+;)(eniLwen.retirWdereffub                
+}            
+
+{ )e noitpecxEOI( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+}    
+}
